@@ -46,7 +46,7 @@ EMAIL: <ZachKrause@live.com>
 https://github.com/ZacharyWK/Weather-Dash-ZK
 ```
 
-[DEPLOYED](https://github.com/ZacharyWK/Weather-Dash-ZK)
+[DEPLOYED](https://zacharywk.github.io/Weather-Dash-ZK/)
 ```
-https://github.com/ZacharyWK/Weather-Dash-ZK
+https://zacharywk.github.io/Weather-Dash-ZK/
 ```
