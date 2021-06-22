@@ -1,0 +1,146 @@
+:root{
+--theme-darkest: #212121;
+--theme-darker: #303030;
+--theme-dark:#3d3d3d;
+--theme-red: #ff4500;
+}
+
+html{
+background-color: var(--theme-darkest);
+color: var(--theme-darkest);
+}
+
+#prevCity button{
+border: none;
+justify-content: center;
+background-color: black;
+color: white;
+margin-top: 5px;
+font-weight: bold;
+}
+#prevCity button:hover{
+background-color: var(--theme-red);
+color:black;
+}
+#prevCity button:active{
+background-color:var(--theme-darker); 
+color:var(--theme-red);
+box-shadow: var(--theme-red) 20px;
+}
+
+
+#userInput{
+position: fixed;
+margin-top:;
+background-color: black;
+width: 100%;
+color:white;
+}
+
+
+.hidden{
+display: none;
+}
+
+h1{
+display: flex;
+justify-content: center;
+text-decoration: underline;
+}
+
+#search{
+display: flex;
+justify-content: center;
+padding: 20px;
+}
+#p1SubmitBtn{
+margin-left: 10px;
+border: none;
+background-color: var(--theme-darker);
+color: white;
+}
+#homeCity{
+    text-align: center;
+}
+
+#closeHistory, #openHistory{
+    position: fixed;
+    text-align: center;
+    right: 0;
+    top: 10px;
+    border: none;
+    background: none;
+}
+#openHistory{
+    color:white
+}
+#closeHistory{
+color:var(--theme-red);
+}
+#closeHistory:hover, #openHistory:hover{
+    text-decoration: underline 1.75px;
+}
+#historyMenu{
+position: fixed;
+right: 0;
+top: 50px;
+height:100%;
+background-color: black;
+border: none;
+}
+
+#prevCity{
+    display: flex;
+    flex-direction: column;
+max-width: 100px;
+font-weight: bold;
+border:none;
+background: 100%;
+border: none;
+}
+
+section h2 {
+    display: flex;
+    justify-content: center;
+background-color: var(--theme-darkest);
+color: var(--theme-darkest);
+padding: 10px;
+margin: 0px;
+}
+.fiveDay, #weatherCard div h2{
+color:white
+}
+
+.weatherCardBody{
+font-size: .75rem;
+background-color: var(--theme-dark);
+color:white;
+}
+#weatherCard{
+padding-top: 125px;
+display: flex;
+background-color: var(--theme-darkest);
+justify-content: center;
+text-align: center;
+}
+
+#weatherCard div{
+width:100%
+}
+
+#weather5Cards{
+display:flex;
+flex-wrap: wrap;
+justify-content: center;
+background-color: black;
+}
+
+#weather5Cards div{
+padding-top: 20px;
+text-align: center;
+max-width: 200px;
+min-width: 200px;
+max-height: 250px;
+min-height: 250px;
+margin:1%
+}
