@@ -17,7 +17,7 @@ Tasked to create a webpage that allows the User to search for a city and see the
 ## Design
 ![image](./img/image.png)
 
-UI was kept simple, and displays the requested data.
+UI was kept simple, and displays the requested data. Previous searches are stored under the History menu in the top right corner of the page, menu can be hidden and unhidden.
 
 ---
 ## Given Criteria
