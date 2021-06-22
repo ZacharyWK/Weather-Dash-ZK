@@ -17,7 +17,7 @@ Tasked to create a webpage that allows the User to search for a city and see the
 ## Design
 ![image](./img/image.png)
 
-UI was kept simple, and displays the requested elements.
+UI was kept simple, and displays the requested data.
 
 ---
 ## Given Criteria
@@ -34,9 +34,9 @@ UI was kept simple, and displays the requested elements.
 ## Have Questions
 ### You can contact me at:
 
-    GITHUB: <https://github.com/ZacharyWK>
+GITHUB: <https://github.com/ZacharyWK>
 
-    EMAIL: <ZachKrause@live.com>
+EMAIL: <ZachKrause@live.com>
 
 
 ---
